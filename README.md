@@ -21,11 +21,15 @@ ng g application host-app --routing --style=scss
 
 ng g application mfe-app --routing --style=scss
 
+<terminal 01>
 cd .\mono-workspace\  
 ng s host-app -o 
 
+<terminal 02>
 cd .\mono-workspace\
 ng s mfe-app -o 
 
- cd .\mono-workspace\
+<terminal 03>
+cd .\mono-workspace\
+npm i webpack webpack-cli --save-dev
  
