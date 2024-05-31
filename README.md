@@ -1,27 +1,17 @@
 # ModuleFederation
 
-
-#   / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
-#   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
-#  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
-# /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
-                |___/
-
-
 Angular CLI: 15.2.11
 Node: 18.20.3
 Package Manager: npm 10.8.1
 OS: win32 x64
 
-Angular:
-...
 
-Package                      Version
+Package&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Version
 ------------------------------------------------------
-@angular-devkit/architect    0.1502.11 (cli-only)
-@angular-devkit/core         15.2.11 (cli-only)
-@angular-devkit/schematics   15.2.11 (cli-only)
-@schematics/angular          15.2.11 (cli-only)
+@angular-devkit/architect &nbsp;&nbsp;&nbsp;&nbsp;0.1502.11 (cli-only) <br>
+@angular-devkit/core&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.2.11 (cli-only) <br>
+@angular-devkit/schematics&nbsp;&nbsp;&nbsp;15.2.11 (cli-only) <br>
+@schematics/angular&nbsp;&nbsp;&nbsp;&nbsp;15.2.11 (cli-only) <br>
 
 ng new myApp --create-application=false
 
@@ -34,5 +24,5 @@ ng g application mfe-app --routing --style=scss
 cd .\mono-workspace\  
 ng s host-app -o 
 
-cd .\mono-workspace\  
+cd .\mono-workspace\
 ng s mfe-app -o 
