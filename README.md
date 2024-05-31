@@ -30,3 +30,9 @@ cd cd .\mono-workspace\
 ng g application host-app --routing --style=scss
 
 ng g application mfe-app --routing --style=scss
+
+cd .\mono-workspace\  
+ng s host-app -o 
+
+cd .\mono-workspace\  
+ng s mfe-app -o 
