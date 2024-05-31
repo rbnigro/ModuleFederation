@@ -26,3 +26,6 @@ ng s host-app -o
 
 cd .\mono-workspace\
 ng s mfe-app -o 
+
+ cd .\mono-workspace\
+ 
