@@ -21,15 +21,15 @@ ng g application host-app --routing --style=scss
 
 ng g application mfe-app --routing --style=scss
 
-<terminal 01>
+<terminal 01><br>
 cd .\mono-workspace\  
 ng s host-app -o 
 
-<terminal 02>
+<terminal 02><br>
 cd .\mono-workspace\
 ng s mfe-app -o 
 
-<terminal 03>
+<terminal 03><br>
 cd .\mono-workspace\
 npm i webpack webpack-cli --save-dev
- 
+ ng add @angular-architects/module-federation --project host-app 4200
