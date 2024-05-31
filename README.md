@@ -32,4 +32,5 @@ ng s mfe-app -o
 <terminal 03><br>
 cd .\mono-workspace\
 npm i webpack webpack-cli --save-dev
- ng add @angular-architects/module-federation --project host-app --port 4200
+ng add @angular-architects/module-federation --project host-app --port 4200
+ng add @angular-architects/module-federation --project mfe-app --port 4300 
