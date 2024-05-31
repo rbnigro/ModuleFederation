@@ -28,3 +28,5 @@ ng new myApp --create-application=false
 cd cd .\mono-workspace\
 
 ng g application host-app --routing --style=scss
+
+ng g application mfe-app --routing --style=scss
